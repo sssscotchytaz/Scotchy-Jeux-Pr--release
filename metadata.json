@@ -1,0 +1,5 @@
+{
+  "name": "StreamLibrary",
+  "description": "A comprehensive library of games played, planned, and abandoned by the streamer, featuring AI-powered search and administration.",
+  "requestFramePermissions": []
+}
